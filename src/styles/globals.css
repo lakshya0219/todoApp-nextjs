@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+/* input[type="checkbox"]:checked {
+  background-color: #6b7280; /* Tailwind's gray-500 color */
+  /* border-color: #6b7280;
+}
+input[type="checkbox"]:checked:after {
+  content: '';
+  display: block;
+  position: relative;
+  width: 6px;
+  height: 12px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  top: -4px;
+  left: 8px;
+} */ 
+
+/* 
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -30,4 +48,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
